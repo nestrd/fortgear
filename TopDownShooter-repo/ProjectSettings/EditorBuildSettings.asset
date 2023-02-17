@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 726beb7d766984949b8f367550388d32
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: f4da7ec0d5ab0594e85d76894547000a
+  - enabled: 1
+    path: Assets/Scenes/IntroZone.unity
+    guid: e22bd075b3696544999fce3469a52d92
+  - enabled: 1
+    path: Assets/Scenes/RandomZone.unity
+    guid: a8feee471a663d64d9783ed4f305f637
+  - enabled: 1
+    path: Assets/Scenes/FortGearMain.unity
+    guid: d656b87924e966c49b1507a68d6756ff
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 6aeaf1da19965dd4cb1ac1de3105fa95,
+      type: 2}
