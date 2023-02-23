@@ -855,7 +855,7 @@ TextureImporter:
       213: -6119688249609623915
     second: TileSet_CaveTiles_283
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -872,9 +872,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -884,8 +887,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -906,9 +909,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -6911,9 +6919,293 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      TileSet_CaveTiles_186: 377331982073495304
+      TileSet_CaveTiles_75: -3431907699356416012
+      TileSet_CaveTiles_69: 5787726520493413563
+      TileSet_CaveTiles_131: -4681837179107622007
+      TileSet_CaveTiles_151: 6355016913342637652
+      TileSet_CaveTiles_82: 2754455644914823021
+      TileSet_CaveTiles_57: 6301293667427973438
+      TileSet_CaveTiles_46: -5818281960116019982
+      TileSet_CaveTiles_56: -2643004216417154351
+      TileSet_CaveTiles_8: -8261711583483726903
+      TileSet_CaveTiles_34: -2798105713227694486
+      TileSet_CaveTiles_219: 1035777554382035090
+      TileSet_CaveTiles_281: -932549716117642083
+      TileSet_CaveTiles_227: -1110958665283575151
+      TileSet_CaveTiles_194: 4652702100536141464
+      TileSet_CaveTiles_132: -8715711241233749986
+      TileSet_CaveTiles_169: 4813143099615107716
+      TileSet_CaveTiles_152: -1183729015342205629
+      TileSet_CaveTiles_207: 5109242433621970019
+      TileSet_CaveTiles_224: -290084539328155401
+      TileSet_CaveTiles_36: -8181566681904460716
+      TileSet_CaveTiles_66: 5652068742267147106
+      TileSet_CaveTiles_235: -8677484669794464493
+      TileSet_CaveTiles_177: -7415117917744113311
+      TileSet_CaveTiles_44: -3923999422222822352
+      TileSet_CaveTiles_254: -4580459356028243236
+      TileSet_CaveTiles_249: 5683543662554229559
+      TileSet_CaveTiles_12: 6981554947892824255
+      TileSet_CaveTiles_20: -7690272758996982785
+      TileSet_CaveTiles_239: 946435106424999628
+      TileSet_CaveTiles_166: 3717934427614174713
+      TileSet_CaveTiles_52: -4718181749278474239
+      TileSet_CaveTiles_143: 1173722502647571627
+      TileSet_CaveTiles_236: -5539627329589511875
+      TileSet_CaveTiles_184: 8495963855179322386
+      TileSet_CaveTiles_206: -1037891821125675847
+      TileSet_CaveTiles_271: 4246371127170815984
+      TileSet_CaveTiles_16: 6575040818635621927
+      TileSet_CaveTiles_101: -6685590490738186144
+      TileSet_CaveTiles_155: 5863806316211505436
+      TileSet_CaveTiles_264: -6599713745957482435
+      TileSet_CaveTiles_15: 4312174503489687874
+      TileSet_CaveTiles_174: -8074674235430568357
+      TileSet_CaveTiles_274: -8075391463803765025
+      TileSet_CaveTiles_253: 6176247309969303520
+      TileSet_CaveTiles_147: -9118720871106477056
+      TileSet_CaveTiles_160: -1894282573258994743
+      TileSet_CaveTiles_216: -1736728744015474178
+      TileSet_CaveTiles_199: -7326416984031555846
+      TileSet_CaveTiles_156: 1702880755964795847
+      TileSet_CaveTiles_167: 9181384288560218271
+      TileSet_CaveTiles_144: 30908816319696428
+      TileSet_CaveTiles_29: 268317155235447093
+      TileSet_CaveTiles_183: -2466758687556664969
+      TileSet_CaveTiles_6: -4359433305516092889
+      TileSet_CaveTiles_84: 5546473285309439731
+      TileSet_CaveTiles_226: -2833019122405938860
+      TileSet_CaveTiles_42: 9049250751527375003
+      TileSet_CaveTiles_7: -2471917518626286425
+      TileSet_CaveTiles_78: -5804110170014030177
+      TileSet_CaveTiles_275: -6785199342724095569
+      TileSet_CaveTiles_3: -2013877764230082003
+      TileSet_CaveTiles_77: 8000333773822408437
+      TileSet_CaveTiles_221: 2829559848568735018
+      TileSet_CaveTiles_83: -1963015154326393036
+      TileSet_CaveTiles_70: -7547175780525084956
+      TileSet_CaveTiles_218: 8746061755299200434
+      TileSet_CaveTiles_106: 4426729540571729525
+      TileSet_CaveTiles_136: -7189006919175458360
+      TileSet_CaveTiles_158: -4318064419433316004
+      TileSet_CaveTiles_256: -3091227779929721002
+      TileSet_CaveTiles_17: -5624166168547841377
+      TileSet_CaveTiles_122: -8949044654151515713
+      TileSet_CaveTiles_269: -871325674420417524
+      TileSet_CaveTiles_53: -2113852001926040003
+      TileSet_CaveTiles_273: 3457614065273872279
+      TileSet_CaveTiles_19: 7385527796367485093
+      TileSet_CaveTiles_74: 4795792957831428220
+      TileSet_CaveTiles_181: 3488752332702424004
+      TileSet_CaveTiles_250: 7629073200341260819
+      TileSet_CaveTiles_68: 8772450372443911507
+      TileSet_CaveTiles_283: -6119688249609623915
+      TileSet_CaveTiles_163: 6323843017631885071
+      TileSet_CaveTiles_232: -2347200666740236999
+      TileSet_CaveTiles_93: -5257508782112522843
+      TileSet_CaveTiles_265: 6848836578060066101
+      TileSet_CaveTiles_259: 6664417053980774340
+      TileSet_CaveTiles_135: -4272095801180436897
+      TileSet_CaveTiles_35: -9078340603363029827
+      TileSet_CaveTiles_248: -4815361975608574131
+      TileSet_CaveTiles_31: 4726056838817508579
+      TileSet_CaveTiles_208: -6750983753898571428
+      TileSet_CaveTiles_270: -5720675718795416965
+      TileSet_CaveTiles_255: 8448424787470293979
+      TileSet_CaveTiles_188: -7139089654332146700
+      TileSet_CaveTiles_48: -560984383481745786
+      TileSet_CaveTiles_47: -4562562349109681511
+      TileSet_CaveTiles_116: 652768280357666804
+      TileSet_CaveTiles_205: -4249616895577370506
+      TileSet_CaveTiles_103: -7770147300846607554
+      TileSet_CaveTiles_222: 713080014008916696
+      TileSet_CaveTiles_179: 1895613967688945550
+      TileSet_CaveTiles_171: -3793487325228084748
+      TileSet_CaveTiles_64: -1732142497199982303
+      TileSet_CaveTiles_162: 3639388794211794841
+      TileSet_CaveTiles_204: 4586051495846761460
+      TileSet_CaveTiles_197: 9167390998379058603
+      TileSet_CaveTiles_182: 7550221363099708335
+      TileSet_CaveTiles_267: -4754938630770134704
+      TileSet_CaveTiles_79: -9012923273238802690
+      TileSet_CaveTiles_148: 4113348189723362447
+      TileSet_CaveTiles_89: -1443689270840066288
+      TileSet_CaveTiles_176: 7902149634357557281
+      TileSet_CaveTiles_192: 2325806620456791526
+      TileSet_CaveTiles_114: -1271201957065063987
+      TileSet_CaveTiles_81: 1276057853989652149
+      TileSet_CaveTiles_180: -3230935830764321267
+      TileSet_CaveTiles_280: -2656520339467571748
+      TileSet_CaveTiles_55: 8795965485150814067
+      TileSet_CaveTiles_1: -8911856514351487376
+      TileSet_CaveTiles_133: -1807206144832381952
+      TileSet_CaveTiles_157: 5457536685076012272
+      TileSet_CaveTiles_282: 3848825331293157597
+      TileSet_CaveTiles_117: -4276131186436045438
+      TileSet_CaveTiles_272: -5761030038996156135
+      TileSet_CaveTiles_247: 5674415935579218005
+      TileSet_CaveTiles_30: 1260513773951850471
+      TileSet_CaveTiles_173: 4849062132133768901
+      TileSet_CaveTiles_263: -1990663828488704230
+      TileSet_CaveTiles_21: 1176428911386887886
+      TileSet_CaveTiles_51: 7227183279815409640
+      TileSet_CaveTiles_120: 7718079976774305766
+      TileSet_CaveTiles_210: 2623791338341042410
+      TileSet_CaveTiles_95: 2878436920711119812
+      TileSet_CaveTiles_165: -8276263065461621491
+      TileSet_CaveTiles_251: 8703837920379639927
+      TileSet_CaveTiles_11: 6832853721020645100
+      TileSet_CaveTiles_139: 6526554580573809541
+      TileSet_CaveTiles_24: -9146333671641977390
+      TileSet_CaveTiles_86: -7015344267598644149
+      TileSet_CaveTiles_72: -3788919349395178611
+      TileSet_CaveTiles_87: 1986771325323846725
+      TileSet_CaveTiles_23: -8579982624731151949
+      TileSet_CaveTiles_2: -6916506127063436936
+      TileSet_CaveTiles_214: 1967705780138809335
+      TileSet_CaveTiles_107: -8134051851036360589
+      TileSet_CaveTiles_150: 1587649139482803883
+      TileSet_CaveTiles_260: -2478593290118006472
+      TileSet_CaveTiles_252: 5260648541181722931
+      TileSet_CaveTiles_97: -1738049160811223472
+      TileSet_CaveTiles_198: 4087928594016800108
+      TileSet_CaveTiles_261: 7232246320506388451
+      TileSet_CaveTiles_41: -8629038486596285522
+      TileSet_CaveTiles_200: 3929014586105261516
+      TileSet_CaveTiles_228: 866611405305919617
+      TileSet_CaveTiles_113: 5119893616402423315
+      TileSet_CaveTiles_217: 2799405668068600001
+      TileSet_CaveTiles_245: 3140054916825066729
+      TileSet_CaveTiles_109: -5940805260053370221
+      TileSet_CaveTiles_4: -9074072794684024846
+      TileSet_CaveTiles_146: -1456426234034605149
+      TileSet_CaveTiles_25: -2281599028170824708
+      TileSet_CaveTiles_100: 1414306842847727403
+      TileSet_CaveTiles_257: -8857130730741663573
+      TileSet_CaveTiles_187: 5298010371912886166
+      TileSet_CaveTiles_168: 1628529046240521473
+      TileSet_CaveTiles_212: 4664114014411836121
+      TileSet_CaveTiles_27: -7999935870628345866
+      TileSet_CaveTiles_196: -6936589369300394450
+      TileSet_CaveTiles_91: 8311294282754052161
+      TileSet_CaveTiles_230: 4435322447723622290
+      TileSet_CaveTiles_40: -8099652112362028198
+      TileSet_CaveTiles_73: -8185604560961973726
+      TileSet_CaveTiles_88: -4257397462242313096
+      TileSet_CaveTiles_225: 1458264711185632688
+      TileSet_CaveTiles_237: -2973507982940571851
+      TileSet_CaveTiles_54: -3650479414853623910
+      TileSet_CaveTiles_175: 4355045790841246240
+      TileSet_CaveTiles_104: -1249409898889002893
+      TileSet_CaveTiles_50: 7204648617097084349
+      TileSet_CaveTiles_242: 511806844355793537
+      TileSet_CaveTiles_159: 6073017536233030778
+      TileSet_CaveTiles_124: 2629498640997356044
+      TileSet_CaveTiles_193: 2498211224713743711
+      TileSet_CaveTiles_258: 6137886968006211828
+      TileSet_CaveTiles_127: 3656868263779918927
+      TileSet_CaveTiles_110: 7133765663268714023
+      TileSet_CaveTiles_22: 4951306080514381600
+      TileSet_CaveTiles_49: 5020855355161982960
+      TileSet_CaveTiles_14: 5613026432519103262
+      TileSet_CaveTiles_141: -8562980030731050922
+      TileSet_CaveTiles_129: 7763456706831339099
+      TileSet_CaveTiles_276: 1164419888246828951
+      TileSet_CaveTiles_43: -4240126269941646624
+      TileSet_CaveTiles_233: -6114036573154805282
+      TileSet_CaveTiles_211: 8874826922389902009
+      TileSet_CaveTiles_123: 3675948609610739512
+      TileSet_CaveTiles_241: 7463891222717578875
+      TileSet_CaveTiles_154: -5839812924847847034
+      TileSet_CaveTiles_118: -1956552535508729798
+      TileSet_CaveTiles_9: -4314527951175820539
+      TileSet_CaveTiles_67: 7219245960308972321
+      TileSet_CaveTiles_195: -3114985930550708637
+      TileSet_CaveTiles_92: -4156999654471095751
+      TileSet_CaveTiles_105: 3949183852920290162
+      TileSet_CaveTiles_119: 5037374111576318048
+      TileSet_CaveTiles_39: -6875168896509950551
+      TileSet_CaveTiles_10: -1331807528116282864
+      TileSet_CaveTiles_112: -1644497236441738274
+      TileSet_CaveTiles_134: 3237731588017543398
+      TileSet_CaveTiles_240: -2908078917099568866
+      TileSet_CaveTiles_229: 4962173052002726596
+      TileSet_CaveTiles_203: -2466114007129209210
+      TileSet_CaveTiles_61: 4893403685127710301
+      TileSet_CaveTiles_94: 2821304284395831483
+      TileSet_CaveTiles_262: 5952433311448909427
+      TileSet_CaveTiles_62: 1160330828270019901
+      TileSet_CaveTiles_153: -4147609219068383702
+      TileSet_CaveTiles_189: 1979751971585853725
+      TileSet_CaveTiles_223: 9192859681687282878
+      TileSet_CaveTiles_5: -8837684716983425433
+      TileSet_CaveTiles_13: -5552000633314182366
+      TileSet_CaveTiles_115: -4452166749004838048
+      TileSet_CaveTiles_137: -4770411374144283565
+      TileSet_CaveTiles_209: 5883121010541124532
+      TileSet_CaveTiles_37: 6346757593815628485
+      TileSet_CaveTiles_161: 2950667218700920216
+      TileSet_CaveTiles_191: -5014801152126419689
+      TileSet_CaveTiles_185: -1918728580325984146
+      TileSet_CaveTiles_279: -1936144355222064490
+      TileSet_CaveTiles_244: 1253371371035617437
+      TileSet_CaveTiles_215: 6461965758240422464
+      TileSet_CaveTiles_28: -6544602273251251129
+      TileSet_CaveTiles_220: 4017463462797049008
+      TileSet_CaveTiles_80: 285891008943913785
+      TileSet_CaveTiles_277: -9024911595971635653
+      TileSet_CaveTiles_98: -1784566788307871418
+      TileSet_CaveTiles_128: -755994044088848556
+      TileSet_CaveTiles_18: -6020784603028761540
+      TileSet_CaveTiles_201: 2526126004161400216
+      TileSet_CaveTiles_278: -1923466506876355267
+      TileSet_CaveTiles_38: -4439638746693228850
+      TileSet_CaveTiles_178: -4923817216366166648
+      TileSet_CaveTiles_138: -3557886160859885447
+      TileSet_CaveTiles_172: 382548138389436987
+      TileSet_CaveTiles_243: -8794318317441092243
+      TileSet_CaveTiles_63: 7798959149561864900
+      TileSet_CaveTiles_26: -4654025300839867259
+      TileSet_CaveTiles_45: 9195964351084015914
+      TileSet_CaveTiles_0: -4629014369830783373
+      TileSet_CaveTiles_85: 4803756834999471048
+      TileSet_CaveTiles_170: -2819227384089256883
+      TileSet_CaveTiles_111: -8598128062147316209
+      TileSet_CaveTiles_96: 8721395107393462035
+      TileSet_CaveTiles_65: -7391077554557485878
+      TileSet_CaveTiles_145: -6138856183005049257
+      TileSet_CaveTiles_130: -8693792888305907735
+      TileSet_CaveTiles_108: -5544209369057849332
+      TileSet_CaveTiles_190: -3750430553616582535
+      TileSet_CaveTiles_149: -6635635855466104934
+      TileSet_CaveTiles_238: -6731783184871631608
+      TileSet_CaveTiles_140: -383691458230789298
+      TileSet_CaveTiles_60: 5226102246264193423
+      TileSet_CaveTiles_202: -4995986819710939314
+      TileSet_CaveTiles_142: -3374944083434984851
+      TileSet_CaveTiles_231: -7705759323694525691
+      TileSet_CaveTiles_76: -8969268246879324490
+      TileSet_CaveTiles_213: 6348057174393826315
+      TileSet_CaveTiles_125: 6098022886838622421
+      TileSet_CaveTiles_121: 134938651184699225
+      TileSet_CaveTiles_266: -5574640641840310286
+      TileSet_CaveTiles_59: -4243580254937526135
+      TileSet_CaveTiles_126: -8970947621552695265
+      TileSet_CaveTiles_246: -1988677532834978120
+      TileSet_CaveTiles_90: 5863796103390500100
+      TileSet_CaveTiles_32: -5443548738454965028
+      TileSet_CaveTiles_33: -6092093213069699498
+      TileSet_CaveTiles_102: -4664613800017326803
+      TileSet_CaveTiles_164: 7336723517520787077
+      TileSet_CaveTiles_234: 6953535860866422291
+      TileSet_CaveTiles_58: -964352478550645452
+      TileSet_CaveTiles_99: -931407144207688346
+      TileSet_CaveTiles_268: -4939540214865860205
+      TileSet_CaveTiles_71: 5183686506422221003
   spritePackingTag: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

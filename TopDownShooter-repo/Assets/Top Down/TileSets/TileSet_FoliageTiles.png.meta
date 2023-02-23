@@ -522,7 +522,7 @@ TextureImporter:
       213: -6845811568670831758
     second: TileSet_FoliageTiles_172
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -539,9 +539,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -551,8 +554,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -573,9 +576,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -4247,9 +4255,182 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      TileSet_FoliageTiles_20: -5133127634574200948
+      TileSet_FoliageTiles_120: 8860904254466904743
+      TileSet_FoliageTiles_115: 5662360618384282140
+      TileSet_FoliageTiles_53: 4741837483114614656
+      TileSet_FoliageTiles_162: 3543654776866130272
+      TileSet_FoliageTiles_172: -6845811568670831758
+      TileSet_FoliageTiles_3: -2533739384483695312
+      TileSet_FoliageTiles_12: 4228877882283957948
+      TileSet_FoliageTiles_57: 5324824779162130541
+      TileSet_FoliageTiles_129: -3455338493307017878
+      TileSet_FoliageTiles_156: 1468140960328394833
+      TileSet_FoliageTiles_62: -4361405955542453074
+      TileSet_FoliageTiles_44: -7619654944109384060
+      TileSet_FoliageTiles_107: -1412061733616470290
+      TileSet_FoliageTiles_161: 406887389771760778
+      TileSet_FoliageTiles_109: -1136676499097448798
+      TileSet_FoliageTiles_73: -6793590519859202739
+      TileSet_FoliageTiles_14: -7610276203452202910
+      TileSet_FoliageTiles_40: 4575512411998042972
+      TileSet_FoliageTiles_113: 2197594285587470267
+      TileSet_FoliageTiles_141: -1967709215126060380
+      TileSet_FoliageTiles_135: -8391383320635510747
+      TileSet_FoliageTiles_5: 6640073846911543462
+      TileSet_FoliageTiles_4: 435770180023139282
+      TileSet_FoliageTiles_39: -3529950821371919814
+      TileSet_FoliageTiles_111: -3753985860906859973
+      TileSet_FoliageTiles_169: 1386145236174818411
+      TileSet_FoliageTiles_70: -8370826372534391550
+      TileSet_FoliageTiles_127: -1894864120059026099
+      TileSet_FoliageTiles_22: -6902619116217643963
+      TileSet_FoliageTiles_124: 741881984101268887
+      TileSet_FoliageTiles_21: 4556800027805475246
+      TileSet_FoliageTiles_104: -6574409854886271230
+      TileSet_FoliageTiles_64: -3001800075535609920
+      TileSet_FoliageTiles_112: -6691809347676230740
+      TileSet_FoliageTiles_61: 3172205631289510121
+      TileSet_FoliageTiles_170: 2446071309989352589
+      TileSet_FoliageTiles_25: -222725825859103943
+      TileSet_FoliageTiles_139: 2608076297950625644
+      TileSet_FoliageTiles_63: 4695605699455354049
+      TileSet_FoliageTiles_36: 4245961234595379730
+      TileSet_FoliageTiles_121: 5336992087494176702
+      TileSet_FoliageTiles_33: 6514981218353920321
+      TileSet_FoliageTiles_143: -7270751136367338091
+      TileSet_FoliageTiles_164: -8460084995774881388
+      TileSet_FoliageTiles_19: -4616528922334893716
+      TileSet_FoliageTiles_144: -7209651963823407745
+      TileSet_FoliageTiles_34: -1578671169329808896
+      TileSet_FoliageTiles_116: 7388890294687281411
+      TileSet_FoliageTiles_51: 3593011848455943668
+      TileSet_FoliageTiles_163: 5682728721360058503
+      TileSet_FoliageTiles_90: -8394367482914689415
+      TileSet_FoliageTiles_52: 7090983709813672910
+      TileSet_FoliageTiles_78: 8668057353807683837
+      TileSet_FoliageTiles_134: 8005307765136892490
+      TileSet_FoliageTiles_77: 5037394977303053997
+      TileSet_FoliageTiles_17: -1220637954556357183
+      TileSet_FoliageTiles_24: -7640163289030185933
+      TileSet_FoliageTiles_140: 6772006967189757808
+      TileSet_FoliageTiles_1: 5519434440153364995
+      TileSet_FoliageTiles_119: 4606623841295477068
+      TileSet_FoliageTiles_117: -4028145669778032209
+      TileSet_FoliageTiles_125: -1574628946065201951
+      TileSet_FoliageTiles_18: -8656011205509797175
+      TileSet_FoliageTiles_122: 3167055675105147543
+      TileSet_FoliageTiles_95: 7100858830907428204
+      TileSet_FoliageTiles_56: 5997882441138357567
+      TileSet_FoliageTiles_114: 7025906219260716603
+      TileSet_FoliageTiles_58: -6566748711077497763
+      TileSet_FoliageTiles_100: 4871982412644026619
+      TileSet_FoliageTiles_72: -1377629151374625498
+      TileSet_FoliageTiles_82: -4874452349763363909
+      TileSet_FoliageTiles_71: -6008952568285004095
+      TileSet_FoliageTiles_83: -7658048081400405503
+      TileSet_FoliageTiles_15: 5124199211222360702
+      TileSet_FoliageTiles_69: 2829418538470570769
+      TileSet_FoliageTiles_75: 3303519292313974313
+      TileSet_FoliageTiles_10: -2620171679216457515
+      TileSet_FoliageTiles_105: -4594531003335808184
+      TileSet_FoliageTiles_37: 1768619711953525929
+      TileSet_FoliageTiles_118: -3683442489957790462
+      TileSet_FoliageTiles_74: -1605818516859753330
+      TileSet_FoliageTiles_157: 3245395905803919437
+      TileSet_FoliageTiles_126: 733189253692834267
+      TileSet_FoliageTiles_136: 1643879127944413299
+      TileSet_FoliageTiles_150: -2677277968650570465
+      TileSet_FoliageTiles_166: 2304997414748646724
+      TileSet_FoliageTiles_60: -6684267260572731824
+      TileSet_FoliageTiles_92: 8255129932370625375
+      TileSet_FoliageTiles_152: -5922332964364387720
+      TileSet_FoliageTiles_146: 262209054130548237
+      TileSet_FoliageTiles_67: -8077781352437787788
+      TileSet_FoliageTiles_49: 2263268394880449000
+      TileSet_FoliageTiles_41: 3771248038757402424
+      TileSet_FoliageTiles_46: 8418042688534434166
+      TileSet_FoliageTiles_27: 8160961540101133945
+      TileSet_FoliageTiles_32: 4516084572763246446
+      TileSet_FoliageTiles_128: 6383077962830915518
+      TileSet_FoliageTiles_31: 4308269795698178432
+      TileSet_FoliageTiles_81: 3465928304663926633
+      TileSet_FoliageTiles_106: 1812185763043873381
+      TileSet_FoliageTiles_96: -2647964293752768112
+      TileSet_FoliageTiles_86: -961073176959139639
+      TileSet_FoliageTiles_42: -5511007335031278251
+      TileSet_FoliageTiles_38: 9159230402281759929
+      TileSet_FoliageTiles_7: 7364305268207891754
+      TileSet_FoliageTiles_28: -2069757916271658995
+      TileSet_FoliageTiles_79: 802471844938304680
+      TileSet_FoliageTiles_59: 3323855042767387688
+      TileSet_FoliageTiles_171: -898282252325380826
+      TileSet_FoliageTiles_153: 7318962046185080858
+      TileSet_FoliageTiles_160: -7226282127374535605
+      TileSet_FoliageTiles_99: -2837689798528467715
+      TileSet_FoliageTiles_87: 8733661488007308941
+      TileSet_FoliageTiles_133: 1410289515284819893
+      TileSet_FoliageTiles_30: 262379185662302744
+      TileSet_FoliageTiles_65: -5739973589424010043
+      TileSet_FoliageTiles_167: 3720840854801846112
+      TileSet_FoliageTiles_102: -314827635664037800
+      TileSet_FoliageTiles_103: 4248517761035824496
+      TileSet_FoliageTiles_94: -247892979963163058
+      TileSet_FoliageTiles_154: 6653380200954205208
+      TileSet_FoliageTiles_50: 5883983390999821660
+      TileSet_FoliageTiles_98: -1758754948697048540
+      TileSet_FoliageTiles_137: -9004311095577400146
+      TileSet_FoliageTiles_89: 1617819122535508832
+      TileSet_FoliageTiles_47: 5401830245293150299
+      TileSet_FoliageTiles_138: 4531015033982831348
+      TileSet_FoliageTiles_68: 7732911478318774105
+      TileSet_FoliageTiles_54: -5745685242322718922
+      TileSet_FoliageTiles_0: -7318297052487422161
+      TileSet_FoliageTiles_43: -3196656827751720425
+      TileSet_FoliageTiles_155: -4309709485004117882
+      TileSet_FoliageTiles_9: 4723881281639689957
+      TileSet_FoliageTiles_45: 8855605553059536851
+      TileSet_FoliageTiles_84: -2826565984552977769
+      TileSet_FoliageTiles_165: 6991168349413076718
+      TileSet_FoliageTiles_2: -7566136463182509798
+      TileSet_FoliageTiles_91: 7074246547116939119
+      TileSet_FoliageTiles_80: -495026187060049370
+      TileSet_FoliageTiles_110: 2613400986606537114
+      TileSet_FoliageTiles_85: -4682028755686804943
+      TileSet_FoliageTiles_132: 5669692698136521420
+      TileSet_FoliageTiles_142: -1396464712622384654
+      TileSet_FoliageTiles_13: -8053297610326899976
+      TileSet_FoliageTiles_148: -8573644002435607633
+      TileSet_FoliageTiles_147: 3863042275061772275
+      TileSet_FoliageTiles_158: 3213370791343380142
+      TileSet_FoliageTiles_26: -6584109770349009110
+      TileSet_FoliageTiles_6: -7907486131270848307
+      TileSet_FoliageTiles_8: -5172811504556611674
+      TileSet_FoliageTiles_145: 4282118061193260550
+      TileSet_FoliageTiles_108: -3207912923183430248
+      TileSet_FoliageTiles_48: 2013193859104487368
+      TileSet_FoliageTiles_123: -8464245517051602444
+      TileSet_FoliageTiles_168: -7847963092570470281
+      TileSet_FoliageTiles_149: -7936425836163359139
+      TileSet_FoliageTiles_55: 7811634938863977774
+      TileSet_FoliageTiles_131: 2544983834145195214
+      TileSet_FoliageTiles_151: -8190060511443865947
+      TileSet_FoliageTiles_101: -4259055316363749689
+      TileSet_FoliageTiles_93: -7860649375562403206
+      TileSet_FoliageTiles_159: 8815621403470260234
+      TileSet_FoliageTiles_35: -4789533110271805614
+      TileSet_FoliageTiles_23: 617447216261863556
+      TileSet_FoliageTiles_66: 6292373293640592509
+      TileSet_FoliageTiles_97: 844418399971155165
+      TileSet_FoliageTiles_88: 7797960777011120905
+      TileSet_FoliageTiles_16: 6501298745791582946
+      TileSet_FoliageTiles_29: 1586015456400620925
+      TileSet_FoliageTiles_76: 4454131204615056709
+      TileSet_FoliageTiles_11: -192324457873042646
+      TileSet_FoliageTiles_130: -233365561840224717
   spritePackingTag: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

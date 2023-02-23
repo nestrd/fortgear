@@ -290,10 +290,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -332,6 +334,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -2272,9 +2275,99 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      fortgear_prototypetileset_3: -7930811384739800610
+      fortgear_prototypetileset_9: 5691229801205762334
+      fortgear_prototypetileset_14: 2002164117672344425
+      fortgear_prototypetileset_29: -1843933900377770213
+      fortgear_prototypetileset_61: -3570506023558280470
+      fortgear_prototypetileset_67: -3893437850367590635
+      fortgear_prototypetileset_15: -1729733192585603090
+      fortgear_prototypetileset_27: 3314245833968195586
+      fortgear_prototypetileset_21: -7124871876529248627
+      fortgear_prototypetileset_46: -2514551324672446545
+      fortgear_prototypetileset_18: -7770823055709900407
+      fortgear_prototypetileset_0: -2221558626540549087
+      fortgear_prototypetileset_17: -1326042295076308425
+      fortgear_prototypetileset_34: 6519049596408148256
+      fortgear_prototypetileset_38: -5025839027172313151
+      fortgear_prototypetileset_55: -385864563804806460
+      fortgear_prototypetileset_35: -8430528431142428626
+      fortgear_prototypetileset_54: 272820446299662748
+      fortgear_prototypetileset_11: -3700843106936676385
+      fortgear_prototypetileset_44: -2528146436453249817
+      fortgear_prototypetileset_30: -3246624183354306164
+      fortgear_prototypetileset_65: 7489301426115131386
+      fortgear_prototypetileset_37: 5792615749419053885
+      fortgear_prototypetileset_68: -2244666111070373321
+      fortgear_prototypetileset_73: -6865487646280084038
+      fortgear_prototypetileset_71: 3803526930287585731
+      fortgear_prototypetileset_24: 398692019046441437
+      fortgear_prototypetileset_77: -3326828719439684983
+      fortgear_prototypetileset_6: -8920354327718847787
+      fortgear_prototypetileset_69: -208358830535939966
+      fortgear_prototypetileset_41: 5236792101438216801
+      fortgear_prototypetileset_22: -1386937281424522368
+      fortgear_prototypetileset_4: 2945421278133546725
+      fortgear_prototypetileset_13: -4687003266099195285
+      fortgear_prototypetileset_74: -1288358189757739393
+      fortgear_prototypetileset_76: 5386596653373734150
+      fortgear_prototypetileset_8: -4719831230453187091
+      fortgear_prototypetileset_40: -8360555615238274982
+      fortgear_prototypetileset_59: 1377553370966950324
+      fortgear_prototypetileset_50: -3719716152545769530
+      fortgear_prototypetileset_64: -5673364598532485427
+      fortgear_prototypetileset_86: -122868817929820660
+      fortgear_prototypetileset_51: -8504536237599549852
+      fortgear_prototypetileset_78: -4105267059441337986
+      fortgear_prototypetileset_12: -8212824209763287431
+      fortgear_prototypetileset_70: -541131696206960224
+      fortgear_prototypetileset_32: 6488657703734094698
+      fortgear_prototypetileset_52: 4021633807393193825
+      fortgear_prototypetileset_83: -8023401274935506994
+      fortgear_prototypetileset_58: -4243843943248785532
+      fortgear_prototypetileset_79: 8727455768411652724
+      fortgear_prototypetileset_10: 6572776900138014456
+      fortgear_prototypetileset_87: -7525445282775022546
+      fortgear_prototypetileset_49: -3531866757677992281
+      fortgear_prototypetileset_23: -7203351376255184000
+      fortgear_prototypetileset_26: 641259342950137494
+      fortgear_prototypetileset_82: 8805869120752500704
+      fortgear_prototypetileset_36: 6823010219262202413
+      fortgear_prototypetileset_53: 2925820759438891400
+      fortgear_prototypetileset_63: -5717564026772924173
+      fortgear_prototypetileset_28: -8862406998606960905
+      fortgear_prototypetileset_57: -4166501926879131305
+      fortgear_prototypetileset_42: -50657677137991222
+      fortgear_prototypetileset_85: -2784585430297308252
+      fortgear_prototypetileset_60: 6971206612465169143
+      fortgear_prototypetileset_84: 2277570189525459436
+      fortgear_prototypetileset_75: -7725050424705390211
+      fortgear_prototypetileset_1: -1425281997504872088
+      fortgear_prototypetileset_43: -7724455604105855446
+      fortgear_prototypetileset_56: 9210671227731304779
+      fortgear_prototypetileset_80: 2920192796171309116
+      fortgear_prototypetileset_89: 6289142519896229562
+      fortgear_prototypetileset_5: 2048857513047761400
+      fortgear_prototypetileset_16: 7266644044454084822
+      fortgear_prototypetileset_25: -543074448362129703
+      fortgear_prototypetileset_62: 3321668006956888956
+      fortgear_prototypetileset_2: -1395910605865760574
+      fortgear_prototypetileset_81: -8265872373815046950
+      fortgear_prototypetileset_72: -6016499761274419951
+      fortgear_prototypetileset_7: 7118444072082815699
+      fortgear_prototypetileset_48: -4911376080919265303
+      fortgear_prototypetileset_20: 8343078492307860331
+      fortgear_prototypetileset_45: 2066058472574394237
+      fortgear_prototypetileset_66: 8796683157963452071
+      fortgear_prototypetileset_39: -4163274427152636937
+      fortgear_prototypetileset_33: -4763033208744888371
+      fortgear_prototypetileset_47: -762841244456448851
+      fortgear_prototypetileset_19: 4142795226273305629
+      fortgear_prototypetileset_31: 8828318147809339128
+      fortgear_prototypetileset_88: 4814277426099665316
   spritePackingTag: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

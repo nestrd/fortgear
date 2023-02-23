@@ -164,10 +164,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -206,6 +208,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -1264,9 +1267,57 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      fortgear_tilesetextras_38: -7078823913181250004
+      fortgear_tilesetextras_19: -9214181819833450584
+      fortgear_tilesetextras_25: -8024528396695098397
+      fortgear_tilesetextras_34: 2595636238595674407
+      fortgear_tilesetextras_41: 6170514081129972572
+      fortgear_tilesetextras_16: -8377548922758981415
+      fortgear_tilesetextras_33: -7657876756174006911
+      fortgear_tilesetextras_39: 3428448773118540505
+      fortgear_tilesetextras_37: 7305075361469464744
+      fortgear_tilesetextras_42: 4777945609077991356
+      fortgear_tilesetextras_10: 1351147574675432637
+      fortgear_tilesetextras_47: 2245680550314851289
+      fortgear_tilesetextras_18: 6565200222705820857
+      fortgear_tilesetextras_3: 3345672922266459613
+      fortgear_tilesetextras_43: 6740848147052244170
+      fortgear_tilesetextras_13: -8315797475325641060
+      fortgear_tilesetextras_2: -1882379559055175679
+      fortgear_tilesetextras_46: 5607897330265873001
+      fortgear_tilesetextras_28: -6670295540578595547
+      fortgear_tilesetextras_36: 980991901399905689
+      fortgear_tilesetextras_15: 1173221968713980744
+      fortgear_tilesetextras_20: -5901014963766408658
+      fortgear_tilesetextras_30: -5419837328771469244
+      fortgear_tilesetextras_27: -8728486637174058498
+      fortgear_tilesetextras_7: -4112264836096694868
+      fortgear_tilesetextras_23: 1460803694033360284
+      fortgear_tilesetextras_12: 7821162206172594158
+      fortgear_tilesetextras_32: -301560397633629937
+      fortgear_tilesetextras_40: -5568950403583902986
+      fortgear_tilesetextras_0: -5084640412622811862
+      fortgear_tilesetextras_5: 3818786256459226799
+      fortgear_tilesetextras_31: -1459165523484330033
+      fortgear_tilesetextras_6: 5733468971670018757
+      fortgear_tilesetextras_11: 3890545668420296841
+      fortgear_tilesetextras_44: 4677095925284979536
+      fortgear_tilesetextras_17: -4708955684680796870
+      fortgear_tilesetextras_24: -7650626472667290437
+      fortgear_tilesetextras_29: -7962095135981092413
+      fortgear_tilesetextras_14: 8738769395522959913
+      fortgear_tilesetextras_1: -4684468357690265596
+      fortgear_tilesetextras_26: 4040047876598155945
+      fortgear_tilesetextras_35: 5555235039743782675
+      fortgear_tilesetextras_22: -4196254695726467027
+      fortgear_tilesetextras_4: -4265844167654844863
+      fortgear_tilesetextras_8: -6219317691909782238
+      fortgear_tilesetextras_21: 736570209469730785
+      fortgear_tilesetextras_9: 8393771878786166092
+      fortgear_tilesetextras_45: 7556112148174046132
   spritePackingTag: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
